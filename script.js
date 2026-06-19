@@ -4,18 +4,6 @@ const UNIV_ADDR = 'Salna, Gazipur-1706';
 const LOGO_PATH = 'images/gau-logo.png';
 
 const BG_LIST = [
-  'images/bg-image-1.jpg',
-  'images/bg-image-2.jpg',
-  'images/bg-image-3.jpg',
-  'images/bg-image-4.jpg',
-  'images/bg-image-5.jpg',
-  'images/bg-image-6.jpg',
-  'images/bg-image-7.jpg',
-  'images/bg-image-8.jpg',
-  'images/bg-image-9.jpg',
-  'images/bg-image-10.jpg',
-  'images/bg-image-11.jpg',
-  'images/bg-image-11.jpg',
   'images/bg-image-12.png',
   'images/bg-image-13.png',
   'images/bg-image-14.png',
